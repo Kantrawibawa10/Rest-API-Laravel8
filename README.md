@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Kantrawibawa10" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.giphy.com%2Fengaging-endpoints-4-ways-to-supplement-gif-search%2F&psig=AOvVaw31PnHa1rD3BmSi-3iMM7JN&ust=1697948025940000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiqtc6jhoIDFQAAAAAdAAAAABAI" width="400"></a>
+    <a href="https://github.com/Kantrawibawa10" target="_blank"><img src="https://engineering.giphy.com/wp-content/uploads/2020/03/giphy-1.gif" width="400"></a>
 </p>
 
 ## Tentang Aplikasi
